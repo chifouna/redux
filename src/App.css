@@ -1,0 +1,62 @@
+.titre{
+  text-align: center;
+  margin-bottom: 10px;
+  margin-top: 30px;
+  
+}
+
+.textArea{
+
+  margin-bottom: 20px;
+  
+
+}
+
+.list{
+  
+  display: flex;
+  justify-content: space-between;
+  width: 700px;
+  margin-bottom: 20px;
+  margin-left: 290px;
+}
+
+.buttons{
+
+  display: flex;
+  width: 200px;
+  justify-content: flex-start;
+}
+
+.Edit{
+  margin-right: 15px;
+}
+
+.dropdown{
+  
+  margin-top: 40px;
+}
+
+.Header{
+
+  display: flex;
+  justify-content: space-around;
+  background: gray;
+  box-shadow: 0px 5px 10px 0px #e2dede;
+  width: 100%;
+  top: 0%;
+  margin-bottom: 35px;
+}
+body {
+  background-color: black;
+  font-weight: 500;
+  font-family: Roboto, Arial, sans-serif;
+}
+
+.filter{
+  position: absolute;
+  margin-top: 58px;
+  margin-left: 75px;
+  margin-bottom: 10px;
+  
+}
